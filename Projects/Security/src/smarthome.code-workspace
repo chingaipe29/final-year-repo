@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../smarthome"
+		},
+		{
+			"name": "Security",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
